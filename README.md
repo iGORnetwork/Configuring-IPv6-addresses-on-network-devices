@@ -8,3 +8,4 @@
 # Назначим IPv6-адреса интерфейсам Ethernet на R1.
 1. Включаем интерфесы 0/0 ; 0/1 
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_5.png)
+2 Включаем ipV6 на интерфейсах 0/0 ; 0/1 
