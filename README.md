@@ -18,3 +18,4 @@
 
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_7.png)
 
+# Активируем IPv6-маршрутизацию на R1
