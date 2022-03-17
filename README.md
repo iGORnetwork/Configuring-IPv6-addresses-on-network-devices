@@ -16,3 +16,5 @@
 
 3. Устанавливаем ip addres link local
 
+![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_7.png)
+
