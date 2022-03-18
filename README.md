@@ -23,3 +23,4 @@
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_8.png)
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_9.png)
 
+# Назначим IPv6-адреса интерфейсу S1.
