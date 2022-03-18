@@ -35,6 +35,8 @@
 
 1) С PC-A отправьте эхо-запрос на FE80::1
 
+![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_12.png)
+
 
 
 
