@@ -39,6 +39,7 @@
 
 2) С PC-A отправляем эхо-запрос на S1 2001:db8:acad:1::b S1
 
+![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_13.png)
 
 
 
