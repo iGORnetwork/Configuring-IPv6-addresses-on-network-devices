@@ -18,6 +18,9 @@
 
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_7.png)
 
+4. Устанавливаем глобальных адреса IPv6
+
+
 # Активируем IPv6-маршрутизацию на R1
 
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_8.png)
