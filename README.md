@@ -19,7 +19,7 @@
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_7.png)
 
 4. Устанавливаем глобальных адреса IPv6
-
+![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_11.png)
 
 # Активируем IPv6-маршрутизацию на R1
 
@@ -27,3 +27,5 @@
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_9.png)
 
 # Назначим IPv6-адреса интерфейсу S1.
+
+![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_10.png)
