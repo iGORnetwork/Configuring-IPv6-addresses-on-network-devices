@@ -43,6 +43,8 @@
 
 3) Вводим команду tracert на PC-A, чтобы проверить наличие сквозного подключения к PC-B.
 
+![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_15.png)
+
 
 
 
