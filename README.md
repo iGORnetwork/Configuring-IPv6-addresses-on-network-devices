@@ -47,6 +47,10 @@
 
 4) С PC-B отправим эхо-запрос на PC-A.
 
+![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_16.png)
+
+5) PC-B отправьте эхо-запрос на локальный адрес канала G0/0 на R1.
+
 
 
 
