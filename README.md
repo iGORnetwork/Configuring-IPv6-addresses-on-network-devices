@@ -45,6 +45,8 @@
 
 ![](https://github.com/iGORnetwork/Configuring-IPv6-addresses-on-network-devices/blob/main/image/Screenshot_15.png)
 
+4) С PC-B отправим эхо-запрос на PC-A.
+
 
 
 
